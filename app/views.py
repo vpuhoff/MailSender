@@ -12,7 +12,7 @@ from app import appbuilder, db
 
 
     Next, register your Views::
-
+  
 
     appbuilder.add_view(MyModelView, "My View", icon="fa-folder-open-o", category="My Category", category_icon='fa-envelope')
 """
